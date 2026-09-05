@@ -1,0 +1,37 @@
+# Build directories
+build/
+bin/
+obj/
+*.obj
+*.lib
+*.exe
+
+# IDE
+.vs/
+.vscode/
+*.vcxproj.user
+*.sln.DotSettings
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Android data
+android_data/
+*.apk
+
+# Misc
+.env
+*.tmp
